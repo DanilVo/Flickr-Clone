@@ -8,17 +8,17 @@ html {
 
 @keyframes bg-images-change {
   0% {
-    background-image: url(/images/autum-forest.jpg);
+    background-image: url(`images/autum-forest.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
   50% {
-    background-image: url(/images/desert-mountains.jpg);
+    background-image: url(images/desert-mountains.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
   100% {
-    background-image: url(/images/winter-castle.jpg);
+    background-image: url(images/winter-castle.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -107,7 +107,7 @@ div[id="container"] > button:hover,
   cursor: pointer;
 }
 
-img[src="/images/flickr.png"] {
+img[src="images/flickr.png"] {
   position: relative;
   width: 80px;
   height: 80px;
