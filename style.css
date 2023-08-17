@@ -13,12 +13,12 @@ html {
     background-repeat: no-repeat;
   }
   50% {
-    background-image: url(images/desert-mountains.jpg);
+    background-image: url('images/desert-mountains.jpg');
     background-size: cover;
     background-repeat: no-repeat;
   }
   100% {
-    background-image: url(images/winter-castle.jpg);
+    background-image: url('images/winter-castle.jpg');
     background-size: cover;
     background-repeat: no-repeat;
   }
