@@ -8,7 +8,7 @@ html {
 
 @keyframes bg-images-change {
   0% {
-    background-image: url(`images/autum-forest.jpg);
+    background-image: url(`images/autum-forest.jpg');
     background-size: cover;
     background-repeat: no-repeat;
   }
